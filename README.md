@@ -1,10 +1,11 @@
 ### Hi there, I'm Mike 👋!
 
 ### About Me
-- 👦🏻 I'm 20 years old and I live in Girona, Spain
-- 🎓 I'm studying Computer Science in _Universitat de Girona_
-- 💻 I spend a lot of my free time developing apps in as many new technologies as I can learn
-- 🎯 I'm mainly focused on bringing my web development knowledge to an advanded level
+- 👦🏻 I'm 21 years old and I live in Girona, Spain.
+- 🎓 I'm studying Computer Science in _Universitat de Girona_.
+- 👨🏽‍💻 I'm currently working as a front-end developer at Additio!
+- 💻 I spend a lot of my free time developing apps in as many new technologies as I can learn.
+- 🎯 I'm mainly focused on bringing my web development knowledge to an advanced level.
 - ⚡ When I'm not coding, I'm mostly riding my bike or training!
 - 📫 Want to reach me? Send me an email to miquelddg@gmail.com
 
