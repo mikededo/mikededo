@@ -15,7 +15,7 @@
 
 I have been developing _Flutter_ apps and I found the necessity of automating the creation of barrel files, since it is something that is really used in the _Flutter_ framework. And, from the necessity, I created (and currently mantain 👷) the extension for Visual Studio Code.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikededo&repo=dartBarrelFileGenerator)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikededo&repo=dartBarrelFileGenerator)](https://github.com/mikededo/dartBarrelFileGenerator)
 
 ### Github Stats
 
