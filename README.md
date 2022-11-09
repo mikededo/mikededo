@@ -5,7 +5,7 @@
 - 👦🏻 I'm 22 years old and I live in Girona.
 - 📖 I'm studying a master's degree in Barcelona.
 - 👨🏻‍💻 I'm currently working as a software engineer at Xing!
-- 💻 I'm really confident with the JS environment, though I spend my free time learning new languages and technologies.
+- 💻 I'm really confident with the JS/TS environment, though I spend my free time learning new languages and technologies.
 - 🎯 I'm mainly focused on bringing my web development knowledge to an advanced level.
 - ⚡ When I'm not coding, I'm mostly riding my bike or training!
 - 📫 Want to reach me? Send me an email to miquelddg@gmail.com
