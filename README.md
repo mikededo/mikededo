@@ -10,13 +10,7 @@
 - ⚡ When I'm not coding, I'm mostly riding my bike or training!
 - 📫 Want to reach me? Send me an email to miquelddg@gmail.com
 
-<div align="center">
-  <h3>🧰 Languages and Tools</h3>
-</div>
-  
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikededo&layout=compact" alt="Top languages">
-</div>
+### 🧰 Languages and Tools
 
 <br />
 <div align="center">
