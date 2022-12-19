@@ -33,6 +33,6 @@
 
 #### Dart Barrel File Generator
 
-I have been developing _Flutter_ apps and I found the necessity of automating the creation of barrel files, since it is something that is really used in the _Flutter_ framework. And, from the necessity, I created (and currently mantain 👷) the extension for Visual Studio Code.
+I have been developing _Flutter_ apps and I found the necessity of automating the creation of barrel files, since it is something that is really used in the _Flutter_ framework. And, in order to enhance developer experience, I developed 👷 the extension for Visual Studio Code.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikededo&repo=dartBarrelFileGenerator)](https://github.com/mikededo/dartBarrelFileGenerator)
