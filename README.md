@@ -10,7 +10,7 @@
 - ⚡ When I'm not coding, I'm mostly riding my bike or training!
 - 📫 Want to reach me? Send me an email to miquelddg@gmail.com
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <br />
 <div align="center">
