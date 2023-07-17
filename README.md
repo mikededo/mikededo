@@ -19,8 +19,21 @@ Aside from that, I'm a cyclist love so most of my spare time is spent on my peda
 
 #### Dart Barrel File Generator
 
-I once tried developing _Flutter_ apps and I found the necessity of automating the creation of barrel files, since it is something that is really used in the _Flutter_ framework. And, in order to enhance developer experience, I developed 👷 the extension for Visual Studio Code.
+I once tried developing _Flutter_ apps and I found the necessity of automating
+the creation of barrel files, since it is something that is really used in the
+_Flutter_ framework. And, in order to enhance developer experience, I developed
+👷 the extension for Visual Studio Code.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikededo&repo=dartBarrelFileGenerator)](https://github.com/mikededo/dartBarrelFileGenerator)
+
+#### Squared CI
+
+On my spare time, I'm also working with a tool that simplifies the process of
+developing GitHub Actions. The idea is to have a no-code like application that
+ends up generating a workflow file!  
+The application is still under development, and is nowhere close to be finished!
+You can try it in: [squared-ci.vercel.app](squared-ci.vercel.app)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikededo&repo=squared-ci)](https://github.com/mikededo/squared-ci)
 
 Thanks for stopping by and happy hacking! 🚀
