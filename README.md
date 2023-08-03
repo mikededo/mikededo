@@ -32,7 +32,7 @@ On my spare time, I'm also working with a tool that simplifies the process of
 developing GitHub Actions. The idea is to have a no-code like application that
 ends up generating a workflow file!  
 The application is still under development, and is nowhere close to be finished!
-You can try it in: [squared-ci.vercel.app](squared-ci.vercel.app)
+You can try it in: [squared-ci.vercel.app](https://squared-ci.vercel.app/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikededo&repo=squared-ci)](https://github.com/mikededo/squared-ci)
 
