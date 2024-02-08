@@ -7,10 +7,8 @@ world, as I'm working as a FE Engineer. I'm a heavy terminal user, always on the
 lookout for new CLI tools that can simplify my development experience (if you are
 curious, here are my [`.dotfiles`](https://github.com/mikededo/.dotfiles)).
 
-Although I'm currently studying for a master's degree :book: and have limited time
-to contribute to open source projects, I'm always open to collaboration and new
-ideas. So if you're interested in working together, or just want to chat about
-programming and life, hit me up!
+I'm always open to collaboration and newideas. So if you're interested in working
+together, or just want to chat about programming and life, hit me up!
 
 Aside from that, I'm a cyclist love so most of my spare time is spent on my pedals! 
 :bicyclist:
