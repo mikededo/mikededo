@@ -17,6 +17,26 @@ Aside from that, I'm a cyclist love so most of my spare time is spent on my peda
 
 ### :open_hands: Open Source projects and ideas
 
+#### [WIP] Svelte TailwindCSS Eslint Plugin
+
+Since I do not use Prettier (https://antfu.me/posts/why-not-prettier - got
+inspired by @antfu), most of my projects are built using TailwindCSS. While I
+have used TailwindCSS's Prettier plugin, I could not find a solution that worked
+_with Svelte_ for TailwindCSS. So, I'm working on a port of
+`eslint-plugin-tailwindcss` that's Svelte specific.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikededo&repo=eslint-plugin-svelte-tailwindcss)](https://github.com/mikededo/eslint-plugin-svelte-tailwindcss)
+
+#### Svelte development
+
+Instead of having many repos with different projects, I decided to centralise
+everything in a monorepo, in which I have all of my Svelte applications as well
+as libraries.  
+The apps on it are made for me to learn and practise Svelte, as well as to help
+me on my daily basis.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikededo&repo=stack)](https://github.com/mikededo/stack)
+
 #### Dart Barrel File Generator
 
 I started my frontend developer journey developing _Flutter_ apps and I found
@@ -38,3 +58,4 @@ can check it at: [Squared CI](https://squared-ci.vercel.app)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mikededo&repo=squared-ci)](https://github.com/mikededo/squared-ci)
 
 Thanks for stopping by and happy hacking! 🚀
+
