@@ -1,6 +1,6 @@
 ### Hey there, I'm Mike (@mikededo) :wave:
 
-I am frontend developer who loves building stuff with React and Svelte, whether
+I am software engineer who loves building stuff with React and Svelte, whether
 it's building standalone apps or using meta-frameworks like Next.js. I am also
 interested in other languages such as Go and Rust, to scape a bit from the
 front-end world, as I am currently working as a FE Engineer. I really enjoy
