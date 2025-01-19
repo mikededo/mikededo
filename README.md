@@ -15,6 +15,9 @@ together, or just want to chat about programming and life, hit me up!
 Aside from that, I'm a cyclist love so most of my spare time is spent on my pedals! 
 :bicyclist:
 
+> I'm also working on my site, in my spare time. Check it in [here](https://mikededo-portfolio.vercel.app)
+> The domain is still temporary, until I finish the site :smile:
+
 ### :open_hands: Open Source projects and ideas
 
 #### [WIP] Svelte TailwindCSS Eslint Plugin
